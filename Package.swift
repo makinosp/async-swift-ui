@@ -37,6 +37,5 @@ package.targets.forEach {
         .enableUpcomingFeature("BareSlashRegexLiterals"), // SE-0354
         .enableUpcomingFeature("ImportObjcForwardDeclarations"), // SE-0384
         .enableUpcomingFeature("DisableOutwardActorInference"), // SE-0401
-        .enableUpcomingFeature("InternalImportsByDefault"), // SE-0409
     ]
 }
