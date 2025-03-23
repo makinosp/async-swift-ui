@@ -6,7 +6,7 @@
 //
 
 import Core
-import SwiftUI
+public import SwiftUI
 
 /// A control that initiates an action.
 /// - SeeAlso: [`SwiftUI.Button`](https://developer.apple.com/documentation/swiftui/button)

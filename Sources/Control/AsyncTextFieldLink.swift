@@ -6,7 +6,7 @@
 //
 
 import Core
-import SwiftUI
+public import SwiftUI
 
 /// A control that requests text input from the user when pressed.
 @available(watchOS 9.0, *)
